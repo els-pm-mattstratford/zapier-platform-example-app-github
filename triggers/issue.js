@@ -21,7 +21,7 @@ module.exports = {
 
   display: {
     label: 'Get Issue',
-    description: 'Triggers on a new issue.'
+    description: 'Triggers when a new issue is created.'
   },
 
   operation: {
